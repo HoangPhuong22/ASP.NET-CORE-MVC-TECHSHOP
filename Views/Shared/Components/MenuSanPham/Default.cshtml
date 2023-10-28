@@ -1,0 +1,7 @@
+﻿@model IEnumerable<TLoaiSanPham>
+<div class="navbar-nav w-100">
+    @foreach(var item in Model)
+    {
+        <a asp-controller= "Product" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai" class="nav-item nav-link">@item.TenLoai</a>
+    }
+</div>

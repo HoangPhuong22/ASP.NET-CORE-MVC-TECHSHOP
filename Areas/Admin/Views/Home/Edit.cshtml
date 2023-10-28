@@ -1,0 +1,85 @@
+﻿@model TechShop.Models.TSanPham
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h1>Edit</h1>
+
+<h4>Chỉnh sửa sản phẩm</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaSanPham" />
+            <div class="form-group">
+                <label asp-for="TenSanPham" class="control-label"></label>
+                <input asp-for="TenSanPham" class="form-control" />
+                <span asp-validation-for="TenSanPham" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HanBaoHanh" class="control-label"></label>
+                <input asp-for="HanBaoHanh" class="form-control" />
+                <span asp-validation-for="HanBaoHanh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnhSanPham" class="control-label"></label>
+                <input asp-for="AnhSanPham" class="form-control" />
+                <span asp-validation-for="AnhSanPham" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaNhoNhat" class="control-label"></label>
+                <input asp-for="GiaNhoNhat" class="form-control" />
+                <span asp-validation-for="GiaNhoNhat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhoiLuong" class="control-label"></label>
+                <input asp-for="KhoiLuong" class="form-control" />
+                <span asp-validation-for="KhoiLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoDay" class="control-label"></label>
+                <input asp-for="DoDay" class="form-control" />
+                <span asp-validation-for="DoDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaLonNhat" class="control-label"></label>
+                <input asp-for="GiaLonNhat" class="form-control" />
+                <span asp-validation-for="GiaLonNhat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaLoaiSanPham" class="control-label"></label>
+                <select asp-for="MaLoaiSanPham" class="form-control" asp-items="ViewBag.MaLoaiSanPham"></select>
+                <span asp-validation-for="MaLoaiSanPham" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaChatLieu" class="control-label"></label>
+                <select asp-for="MaChatLieu" class="form-control" asp-items="ViewBag.MaChatLieu" ></select>
+                <span asp-validation-for="MaChatLieu" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaThuongHieu" class="control-label"></label>
+                <select asp-for="MaThuongHieu" class="form-control" asp-items="ViewBag.MaThuongHieu"></select>
+                <span asp-validation-for="MaThuongHieu" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaQuocGia" class="control-label"></label>
+                <select asp-for="MaQuocGia" class="form-control" asp-items="ViewBag.MaQuocGia"></select>
+                <span asp-validation-for="MaQuocGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="tSanPham" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,51 @@
+﻿@using TechShop.Models
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@model X.PagedList.IPagedList<TLoaiSanPham>
+@{
+    ViewData["Title"] = "tSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="col-md-12">
+    <div class="page_title">
+        <h2>Danh mục sản phẩm</h2>
+    </div>
+</div>
+<a asp-ara asp-action="Create" class="btn btn-dark text-white font-weight-bold">Create New</a>
+
+<div class="table-responsive-sm">
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>Mã loại sản phẩm</th>
+                <th>Tên loại sản phẩm</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.MaLoai
+                    </td>
+                    <td>@item.TenLoai</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaLoai" class="btn btn-primary btn-sm">Edit</a>
+
+                        <a asp-action="Delete" asp-route-id="@item.MaLoai" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item">@Html.PagedListPager(Model, page => Url.Action("tLoaiSanPham", new { page = page }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })</li>
+        </ul>
+    </nav>
+</div>

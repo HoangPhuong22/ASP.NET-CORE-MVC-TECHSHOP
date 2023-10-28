@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutTechShop.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<TSanPham>
+@{
+    Html.RenderPartial("Filter");
+}
+
+<div class="col-lg-9 col-md-8">
+    <div class="row pb-3">
+        @foreach(var item in Model)
+        {
+            <div class="col-lg-4 col-md-6 col-sm-6 pb-1">
+                <div class="product-item bg-light mb-4" style="display: flex; flex-direction: column;">
+                    <div class="product-img position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="~/img/@item.AnhSanPham" alt="">
+                        <div class="product-action">
+                            <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-shopping-cart"></i></a>
+                            <a class="btn btn-outline-dark btn-square" href=""><i class="far fa-heart"></i></a>
+                            <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-sync-alt"></i></a>
+                            <a class="btn btn-outline-dark btn-square" asp-action="ProductDetail" asp-controller="Product" asp-route-maSP ="@item.MaSanPham"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                    <div class="text-center py-4">
+                        <a class="h6 text-decoration-none" style="word-wrap: break-word; overflow-wrap: break-word;" href="#">@item.TenSanPham</a>
+
+                        <div class="d-flex align-items-center justify-content-center mt-2">
+                            <h5>
+                                @string.Format("{0:#,##0}", item.GiaNhoNhat) đ
+                            </h5>
+                            <h6 class="text-muted ml-2"><del>@string.Format("{0:#,##0}", item.GiaNhoNhat)đ</del></h6>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center mb-1">
+                            <small class="fa fa-star text-primary mr-1"></small>
+                            <small class="fa fa-star text-primary mr-1"></small>
+                            <small class="fa fa-star text-primary mr-1"></small>
+                            <small class="fa fa-star text-primary mr-1"></small>
+                            <small class="fa fa-star text-primary mr-1"></small>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        }
+    </div>
+    <div class="row">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">@Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })</li>
+            </ul>
+        </nav>
+    </div>
+</div>

@@ -1,0 +1,144 @@
+﻿
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Admin</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- site icon -->
+      <link rel="icon" href="~/admin/images/fevicon.png" type="image/png" />
+      <!-- bootstrap css -->
+      <link rel="stylesheet" href="~/admin/css/bootstrap.min.css" />
+      <!-- site css -->
+      <link rel="stylesheet" href="~/admin/style.css" />
+      <!-- responsive css -->
+      <link rel="stylesheet" href="~/admin/css/responsive.css" />
+      <!-- color css -->
+      <link rel="stylesheet" href="~/admin/css/colors.css" />
+      <!-- select bootstrap -->
+      <link rel="stylesheet" href="~/admin/css/bootstrap-select.css" />
+      <!-- scrollbar css -->
+      <link rel="stylesheet" href="~/admin/css/perfect-scrollbar.css" />
+      <!-- custom css -->
+      <link rel="stylesheet" href="~/admin/css/custom.css" />
+       <!-- calendar file css -->
+      <link rel="stylesheet" href="~/admin/js/semantic.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body class="inner_page widgets">
+      <div class="full_container">
+         <div class="inner_container">
+            <!-- Sidebar  -->
+            <nav id="sidebar">
+               <div class="sidebar_blog_1">
+                  <div class="sidebar-header">
+                     <div class="logo_section">
+                            <a href="index.html"><img class="logo_icon img-responsive" src="~/admin/images/logo/logo_icon.png" alt="#" /></a>
+                     </div>
+                  </div>
+                  <div class="sidebar_user_info">
+                     <div class="icon_setting"></div>
+                     <div class="user_profle_side">
+                            <div class="user_img"><img class="img-responsive" src="~/admin/images/layout_img/user_img.jpg" alt="#" /></div>
+                        <div class="user_info">
+                           <h6>PCH Admin</h6>
+                           <p><span class="online_animation"></span> Online</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="sidebar_blog_2">
+                  <h4>General</h4>
+                  <ul class="list-unstyled components">
+                        <li><a asp-area="Admin" asp-controller="Home" asp-action="tSanPham"><i class="fas fa-stop-circle"></i> <span>Quản lí sản phẩm</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiLoai" asp-action="tLoaiSanPham"><i class="fas fa-stop-circle"></i> <span>Quản lí loại sản phẩm</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiThuongHieu" asp-action="tThuongHieu"><i class="fas fa-copyright"></i> <span>Quản lí thương hiệu</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiQuocGia" asp-action="tQuocGia"><i class="fas fa-globe-europe"></i> <span>Quản lí quốc gia</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiChiTietSanPham" asp-action="tChiTietSanPham"><i class="fab fa-product-hunt"></i> <span>Quản lí chi tiết sản phẩm</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiChatLieu" asp-action="tQuanLiChatLieu"><i class="fas fa-pump-soap"></i> <span>Quản lí chất liệu</span></a></li>
+                        <li><a asp-area="Admin" asp-controller="tQuanLiTaiKhoan" asp-action="tTaiKhoan"><i class="fas fa-user-circle"></i> <span>Quản lí tài khoản</span></a></li>
+
+
+                  </ul>
+               </div>
+            </nav>
+            <!-- end sidebar -->
+            <!-- right content -->
+            <div id="content">
+               <!-- topbar -->
+               <div class="topbar">
+                  <nav class="navbar navbar-expand-lg navbar-light">
+                     <div class="full">
+                        <button type="button" id="sidebarCollapse" class="sidebar_toggle"><i class="fa fa-bars"></i></button>
+                        <div class="logo_section">
+                                <a href="index.html"><img class="img-responsive" src="https://us.123rf.com/450wm/ylivdesign/ylivdesign2110/ylivdesign211012504/176252000-man-with-the-inscription-admin-icon-outline-man-with-the-inscription-admin-vector-icon-color-flat.jpg?ver=6" alt="#" /></a>
+                        </div>
+                        <div class="right_topbar">
+                           <div class="icon_info">
+                              
+                              <ul class="user_profile_dd">
+                                 <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown"><img class="img-responsive rounded-circle" src="~/admin/images/layout_img/user_img.jpg" alt="#" /><span class="name_user">John David</span></a>
+                                    <div class="dropdown-menu">
+                                       <a class="dropdown-item" href="profile.html">My Profile</a>
+                                       <a class="dropdown-item" href="settings.html">Settings</a>
+                                       <a class="dropdown-item" href="help.html">Help</a>
+                                       <a class="dropdown-item" asp-controller="Account" asp-action="Login"><span>Log Out</span> <i class="fa fa-sign-out"></i></a>
+                                    </div>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </nav>
+               </div>
+               <!-- end topbar -->
+               <!-- dashboard inner -->
+               <div class="midde_cont">
+                   @RenderBody()
+               </div>
+               <!-- end dashboard inner -->
+            </div>
+         </div>
+      </div>
+      <!-- jQuery -->
+      <script src="~/admin/js/jquery.min.js"></script>
+      <script src="~/admin/js/popper.min.js"></script>
+      <script src="~/admin/js/bootstrap.min.js"></script>
+      <!-- wow animation -->
+      <script src="~/admin/js/animate.js"></script>
+      <!-- select country -->
+      <script src="~/admin/js/bootstrap-select.js"></script>
+      <!-- owl carousel -->
+      <script src="~/admin/js/owl.carousel.js"></script>
+    <!-- chart js -->
+      <script src="~/admin/js/Chart.min.js"></script>
+      <script src="~/admin/js/Chart.bundle.min.js"></script>
+      <script src="~/admin/js/utils.js"></script>
+      <script src="~/admin/js/analyser.js"></script>
+      <!-- nice scrollbar -->
+     <script src="~/admin/js/perfect-scrollbar.min.js"></script>
+      <script>
+         var ps = new PerfectScrollbar('#sidebar');
+      </script>
+      <!-- custom js -->
+     <script src="~/admin/js/custom.js"></script>
+      <!-- calendar file css -->
+     <script src="~/admin/js/semantic.min.js"></script>
+      <script></script>
+   </body>
+</html>

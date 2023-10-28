@@ -1,0 +1,86 @@
+﻿@using TechShop.Models
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<TChiTietSanPham>
+@{
+    ViewData["Title"] = "tSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="col-md-12">
+    <div class="page_title">
+        <h2>Danh mục chi tiết sản phẩm</h2>
+    </div>
+</div>
+<a asp-controller="tQuanLiChiTietSanPham" asp-action="Create" class="btn btn-dark text-white font-weight-bold">Create New</a>
+
+<div class="table-responsive-sm">
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Mã chi tiết sản phẩm
+                </th>
+                <th>
+                    Kích thước 
+                </th>
+                <th>
+                    Màu sắc
+                </th>
+                <th>
+                    Ảnh đại diện
+                </th>
+                <th>
+                    Đơn giá bán
+                </th>
+                <th>
+                    Giảm giá
+                </th>
+                <th>
+                    Số lượng tồn kho
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.MaChiTietSanPham
+                    </td>
+                    <td>
+                        @item.KichThuoc
+                    </td>
+                    <td>@item.MauSac</td>
+                    <td>
+                        <img class="img-fluid" src="~/img/@item.AnhDaiDien" alt="Ảnh sản phẩm">
+                    </td>
+                    <td>
+                       @item.DonGiaBan
+                    </td>
+                    <td>
+                        @item.GiamGia
+                    </td>
+                   
+                    <td>
+                        @item.SoLuongTonKho
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaChiTietSanPham" class="btn btn-primary btn-sm">Edit</a>
+
+                        <a asp-action="Delete" asp-route-id="@item.MaChiTietSanPham" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item">@Html.PagedListPager(Model, page => Url.Action("tSanPham", new { page = page }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })</li>
+        </ul>
+    </nav>
+</div>

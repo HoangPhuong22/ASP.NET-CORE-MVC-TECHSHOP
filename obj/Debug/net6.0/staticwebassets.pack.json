@@ -1,0 +1,2345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\TechShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TechShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TechShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\calendar.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\calendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\calendar.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\color_2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\color_2.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\admin\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\semantic.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\admin\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\admin\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\american-express.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\american-express.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\bg1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\bg1.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\error.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\error.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g11.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g12.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g13.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g14.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g15.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g16.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\g9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\login_image.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\login_image.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\map_icon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\map_icon.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\mastercard.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\msg1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg1.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\msg2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg2.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\msg3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg3.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\msg4.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg4.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\msg5.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg5.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\pattern.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\pattern.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\pattern_h.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\paypal.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\user_img.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\user_img.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\layout_img\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\visa.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\images\\logo\\logo_icon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo_icon.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\analyser.js",
+      "PackagePath": "staticwebassets\\admin\\js\\analyser.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\animate.js",
+      "PackagePath": "staticwebassets\\admin\\js\\animate.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\calendar.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\calendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\calendar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\chart_custom_style1.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart_custom_style1.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\chart_custom_style2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart_custom_style2.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\custom_chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom_chart.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\semantic.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\semantic.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\settings.html",
+      "PackagePath": "staticwebassets\\admin\\js\\settings.html"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\js\\utils.js",
+      "PackagePath": "staticwebassets\\admin\\js\\utils.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\modules\\.DS_Store"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-animation.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-animation.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-api-annotations.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api-annotations.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-api-rules.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api-rules.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-api.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-area.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-area.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-area3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-area3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-boxplot.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-boxplot.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-bubble.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-bubble.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-bubblepie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-bubblepie.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-calendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-calendar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-chord.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-chord.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-core.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-core.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-csv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-csv.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-debug.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-debug.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-dragging.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-dragging.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-errorbars.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-errorbars.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-export.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-export.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-gauge.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-grid.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-grid.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-guide.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-guide.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbar3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hbubble.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbubble.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hbullet.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbullet.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hfunnel.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-history.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-history.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-hscatter.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hscatter.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-legend.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-legend.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-line.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-line.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-line3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-line3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-afg.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-afg.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ago.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ago.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-alb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-alb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-and.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-and.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-are.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-are.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-arg.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-arg.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-arm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-arm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-aus.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aus.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-aut.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aut.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-aze.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aze.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bdi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bdi.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bel.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ben.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ben.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bfa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bfa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bgr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bgr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bih.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bih.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-blr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-blr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bol.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bol.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bra.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bra.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-brn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-brn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-btn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-btn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-bwa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bwa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-caf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-caf.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-can.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-can.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-che.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-che.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-chl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-chl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-chn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-chn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-civ.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-civ.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cmr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cmr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cod.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cod.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cog.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cog.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-col.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-col.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cri.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cri.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cub.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cub.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cyp.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cyp.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-cze.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cze.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-deu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-deu.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-dnk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-dnk.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ecu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ecu.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-egy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-egy.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-esp.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-esp.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-espL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-espL2.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-est.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-est.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-eth.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-eth.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-fin.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fin.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-fra.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fra.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-fraL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fraL2.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gab.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gab.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gbr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gbr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gbrL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gbrL2.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-geojson.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-geojson.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gha.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gha.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gmb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gmb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gnb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gnb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-grc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-grc.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-gtm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gtm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-guf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-guf.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-guy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-guy.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-hrv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-hrv.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-hun.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-hun.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ind.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ind.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-irl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-irl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-irn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-irn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-isl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-isl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-isr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-isr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ita.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ita.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-jpn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-jpn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-kaz.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kaz.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ken.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ken.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-kor.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kor.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-kwt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kwt.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-lao.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lao.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-lbr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lbr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-lie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lie.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ltu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ltu.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-lux.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lux.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-lva.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lva.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-mda.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mda.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-mex.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mex.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-mkd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mkd.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-mne.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mne.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-moz.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-moz.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-nam.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nam.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ncl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ncl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-nga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nga.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-nld.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nld.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-nor.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nor.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-nzl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nzl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-omn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-omn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-pak.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pak.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-pan.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pan.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-per.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-per.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-phl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-phl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-png.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-png.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-pol.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pol.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-prt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-prt.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-qat.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-qat.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-rou.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rou.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-rus.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rus.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-rwa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rwa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-sen.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-sen.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-slv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-slv.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-srb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-srb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-sur.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-sur.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-svk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-svk.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-svn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-svn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-swe.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-swe.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-tha.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tha.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-tjk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tjk.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-topojson.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-topojson.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-tun.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tun.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-tur.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tur.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-twn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-twn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-uga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-uga.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ukr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ukr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ury.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ury.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ak.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ak.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_al.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_al.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_az.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_az.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ca.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ca.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_co.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_co.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ct.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ct.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_dc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_dc.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_de.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_de.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_fl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_fl.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ga.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_hi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_hi.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ia.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ia.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_id.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_id.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_il.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_il.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_in.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_in.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ks.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ks.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ky.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ky.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_la.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_la.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ma.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ma.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_md.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_md.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_me.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_me.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_mi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mi.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_mn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_mo.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mo.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ms.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ms.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_mt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mt.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nc.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nd.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ne.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ne.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nh.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nj.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nj.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_nv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nv.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ny.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ny.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_oh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_oh.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ok.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ok.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_or.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_or.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_pa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_pa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ri.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ri.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_sc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_sc.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_sd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_sd.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_tn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_tn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_tx.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_tx.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_ut.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ut.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_va.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_va.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_vt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_vt.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_wa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wa.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_wi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wi.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_wv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wv.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-usa_wy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wy.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-uzb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-uzb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-ven.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ven.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-vnm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-vnm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-world-continents.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-world-continents.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-world-countries.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-world-countries.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-yem.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-yem.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-zaf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zaf.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-zmb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zmb.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps-zwe.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zwe.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-maps.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-navpie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-navpie.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-nestedpie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-nestedpie.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-objects.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-objects.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-pareto.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pareto.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-patterns.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-patterns.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-piano.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-piano.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pie.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-pie3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pie3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-populationpyramid.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-populationpyramid.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-preview.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-preview.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-r.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-r.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-radar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-radar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-range.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-range.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-rankflow.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-rankflow.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-refresh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-refresh.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-scalemarkers.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scalemarkers.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-scatter.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scatter.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-scroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scroll.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-selection-tool.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-selection-tool.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-selection.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-selection.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-stock.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-stock.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-stream.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-stream.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-svg-simple-selection.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-svg-simple-selection.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-toolbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-toolbar3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-treemap.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-treemap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-varea.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-varea.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-vbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbar.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-vbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbar3d.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-vbullet.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbullet.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-venn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-venn.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-vfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vfunnel.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-vline.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vline.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-waterfall.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-waterfall.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-wordcloud.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-wordcloud.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-xy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-xy.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-yx.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-yx.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\modules\\zingchart-zoom.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-zoom.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\admin\\style.css",
+      "PackagePath": "staticwebassets\\admin\\style.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\Asus1404.png",
+      "PackagePath": "staticwebassets\\img\\Asus1404.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\apple-watch-series-8.jpg",
+      "PackagePath": "staticwebassets\\img\\apple-watch-series-8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\asus-rog-zephyrus.jpg",
+      "PackagePath": "staticwebassets\\img\\asus-rog-zephyrus.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\dell-alienware-desktop.jpg",
+      "PackagePath": "staticwebassets\\img\\dell-alienware-desktop.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\dell-xps-15.jpg",
+      "PackagePath": "staticwebassets\\img\\dell-xps-15.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\iphone-14-pro.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone-14-pro.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\lenovo-yoga-c940.jpg",
+      "PackagePath": "staticwebassets\\img\\lenovo-yoga-c940.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\lg-oled-8k-tv.jpg",
+      "PackagePath": "staticwebassets\\img\\lg-oled-8k-tv.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\payments.png",
+      "PackagePath": "staticwebassets\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\samsung-galaxy-s23.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung-galaxy-s23.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\samsung-galaxy-watch-5.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung-galaxy-watch-5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\sony-bravia-xr-tv.jpg",
+      "PackagePath": "staticwebassets\\img\\sony-bravia-xr-tv.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\C#\\TechShop\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TechShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TechShop.props",
+      "PackagePath": "build\\TechShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TechShop.props",
+      "PackagePath": "buildMultiTargeting\\TechShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TechShop.props",
+      "PackagePath": "buildTransitive\\TechShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
