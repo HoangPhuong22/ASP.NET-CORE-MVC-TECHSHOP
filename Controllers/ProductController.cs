@@ -44,5 +44,16 @@ namespace TechShop.Controllers
             return View(productDetailViewModel);
         }
 
+        public IActionResult Search(string searchText)
+        {
+            // Ở đây, bạn có thể sử dụng biến "searchText" để thực hiện tìm kiếm dựa trên nội dung tìm kiếm.
+
+            // Ví dụ: Thực hiện tìm kiếm trong danh sách sản phẩm
+            var products = db.TSanPhams.Where(p => p.TenSanPham.Contains(searchText)).ToList();
+
+            // Trả về view với danh sách sản phẩm tìm thấy
+            return View(products);
+        }
+
     }
 }
