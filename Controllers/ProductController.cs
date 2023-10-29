@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
 using TechShop.Models;
 using TechShop.ViewModels;
 using X.PagedList;
@@ -11,6 +13,7 @@ namespace TechShop.Controllers
         TechShopContext db = new TechShopContext();
         public IActionResult Index(int? page)
         {
+            ViewBag.ActivePage = "Product";
             int pageSize = 6;
             int pageNumber = page==null||page < 0 ? 1 : page.Value;
             var listSanPham = db.TSanPhams.AsNoTracking().OrderBy(X=>X.TenSanPham);
@@ -53,6 +56,53 @@ namespace TechShop.Controllers
             // Trả về view với danh sách sản phẩm tìm thấy
             return View(lst);
         }
+        public IActionResult SearchByPrice(string[] priceRanges, int? page)
+        {
+            int pageSize = 9;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            PagedList<TSanPham> productList = null;
+
+            if (priceRanges != null && priceRanges.Length > 0)
+            {
+                var decimalPriceRanges = new List<decimal>();
+
+                if (priceRanges.Contains("all"))
+                {
+                    // Xử lý tất cả giá
+                    decimalPriceRanges.Add(0); // Đặt giá trị tùy ý cho tất cả giá
+
+                    var t = db.TSanPhams.AsNoTracking().Where(p => decimalPriceRanges.Contains(p.GiaLonNhat)).OrderBy(X => X.TenSanPham);
+                    productList = new PagedList<TSanPham>(t, pageNumber, pageSize);
+                    return View(productList);
+                }
+
+                foreach (string range in priceRanges)
+                {
+                    if (decimal.TryParse(range, out decimal price))
+                    {
+                        decimalPriceRanges.Add(price);
+                    }
+                    else
+                    {
+                        // Xử lý lỗi cho các trường hợp khác
+                        // return hoặc thực hiện xử lý lỗi
+                    }
+                }
+
+                var filteredProducts = db.TSanPhams.AsNoTracking().Where(p => decimalPriceRanges.Contains(p.GiaLonNhat)).OrderBy(X => X.TenSanPham);
+                productList = new PagedList<TSanPham>(filteredProducts, pageNumber, pageSize);
+            }
+            else
+            {
+                // Xử lý trường hợp nếu không có giá trị được chọn (không check chọn)
+                // Ở đây có thể trả về toàn bộ sản phẩm hoặc thực hiện xử lý khác tùy ý
+                var allProducts = db.TSanPhams;
+                productList = new PagedList<TSanPham>(allProducts, pageNumber, pageSize);
+            }
+
+            return View(productList);
+        }
+
 
     }
 }

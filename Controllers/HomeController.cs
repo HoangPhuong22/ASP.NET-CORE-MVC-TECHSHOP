@@ -15,7 +15,8 @@ namespace TechShop.Controllers
 
 		public IActionResult Index()
 		{
-			return View();
+            ViewBag.ActivePage = "Home";
+            return View();
 		}
 
 		public IActionResult Privacy()
