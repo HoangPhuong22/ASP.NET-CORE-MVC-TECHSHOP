@@ -44,15 +44,14 @@ namespace TechShop.Controllers
             return View(productDetailViewModel);
         }
 
-        public IActionResult Search(string searchText)
+        public IActionResult Search(string searchText, int? page)
         {
-            // Ở đây, bạn có thể sử dụng biến "searchText" để thực hiện tìm kiếm dựa trên nội dung tìm kiếm.
-
-            // Ví dụ: Thực hiện tìm kiếm trong danh sách sản phẩm
-            var products = db.TSanPhams.Where(p => p.TenSanPham.Contains(searchText)).ToList();
-
+            int pageSize = 9;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var products = db.TSanPhams.AsNoTracking().Where(p => p.TenSanPham.Contains(searchText)).OrderBy(X => X.TenSanPham);
+            PagedList<TSanPham> lst = new PagedList<TSanPham>(products, pageNumber, pageSize);
             // Trả về view với danh sách sản phẩm tìm thấy
-            return View(products);
+            return View(lst);
         }
 
     }

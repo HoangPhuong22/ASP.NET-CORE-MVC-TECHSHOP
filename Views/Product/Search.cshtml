@@ -5,7 +5,7 @@
 
 @using X.PagedList.Mvc.Core;
 @using X.PagedList.Web.Common;
-@model List<TSanPham>
+@model X.PagedList.IPagedList<TSanPham>
 @{
     Html.RenderPartial("Filter");
 }
@@ -46,5 +46,11 @@
             </div>
         }
     </div>
-    
+    <div class="row">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">@Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })</li>
+            </ul>
+        </nav>
+    </div>
 </div>
