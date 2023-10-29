@@ -3,13 +3,21 @@
     Layout = "~/Views/Shared/_LayoutTechShop.cshtml";
 }
 
-@using X.PagedList.Mvc.Core
-@using X.PagedList.Web.Common
-@model X.PagedList.IPagedList<TSanPham>
 
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<TSanPham>
 @{
-    var priceRanges = ViewBag.PriceRanges as string[]; // Lấy giá trị priceRanges từ ViewBag
+    Html.RenderPartial("Filter");
 }
+@{
+    string[] priceRanges = TempData["PriceRanges"] as string[];
+    if (priceRanges == null)
+    {
+        priceRanges = new string[0];
+    }
+}
+
 
 <div class="col-lg-9 col-md-8">
     <div class="row pb-3">
@@ -21,7 +29,7 @@
                         <img class="img-fluid w-100" src="~/img/@item.AnhSanPham" alt="">
                         <div class="product-action">
                             <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-shopping-cart"></i></a>
-                            <a class "btn btn-outline-dark btn-square" href=""><i class="far fa-heart"></i></a>
+                            <a class="btn btn-outline-dark btn-square" href=""><i class="far fa-heart"></i></a>
                             <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-sync-alt"></i></a>
                             <a class="btn btn-outline-dark btn-square" asp-action="ProductDetail" asp-controller="Product" asp-route-maSP="@item.MaSanPham"><i class="fa fa-search"></i></a>
                         </div>
@@ -32,7 +40,7 @@
                             <h5>
                                 @string.Format("{0:#,##0}", item.GiaNhoNhat) đ
                             </h5>
-                            <h6 class="text-muted ml-2"><del>@string.Format("{0:#,##0}", item.GiaNhoNhat) đ</del></h6>
+                            <h6 class="text-muted ml-2"><del>@string.Format("{0:#,##0}", item.GiaNhoNhat)đ</del></h6>
                         </div>
                         <div class="d-flex align-items-center justify-content-center mb-1">
                             <small class="fa fa-star text-primary mr-1"></small>
@@ -40,6 +48,7 @@
                             <small class="fa fa-star text-primary mr-1"></small>
                             <small class="fa fa-star text-primary mr-1"></small>
                             <small class="fa fa-star text-primary mr-1"></small>
+
                         </div>
                     </div>
                 </div>
@@ -49,11 +58,7 @@
     <div class="row">
         <nav aria-label="Page navigation example">
             <ul class="pagination">
-                <li class="page-item">
-                    <a class="page-link" asp-action="SearchByPrice" asp-controller="Product" asp-route-page="1"
-                       asp-route-priceRanges="@(priceRanges ?? new string[] { "all" })">First</a>
-                </li>
-                @Html.PagedListPager(Model, page => Url.Action("SearchByPrice", new { page, priceRanges }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })
+                <li class="page-item">@Html.PagedListPager(Model, page => Url.Action("SearchByPrice", new { page = page }), new PagedListRenderOptions { LiElementClasses = new string[] { "page-item" }, PageClasses = new string[] { "page-link" } })</li>
             </ul>
         </nav>
     </div>
