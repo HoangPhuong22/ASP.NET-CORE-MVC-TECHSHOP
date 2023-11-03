@@ -317,19 +317,7 @@
     <!-- Contact Javascript File -->
     <script src="~/mail/jqBootstrapValidation.min.js"></script>
     <script src="~/mail/contact.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('#searchButton').on('click', function () {
-                var selectedPriceRanges = $('input[name="priceRange"]:checked').map(function () {
-                    return $(this).val();
-                }).get();
-                var priceRangesString = selectedPriceRanges.join(',');
-
-                // Gửi danh sách các khoảng giá đã chọn lên server
-                window.location.href = '/Product/SearchByPrice?priceRanges=' + priceRangesString;
-            });
-        });
-    </script>
+    
 
     <!-- Template Javascript -->
     <script src="~/js/main.js"></script>

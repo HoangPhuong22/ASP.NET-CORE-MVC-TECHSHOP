@@ -5,7 +5,7 @@
     <div class="bg-light p-4 mb-30">
         <form asp-action="SearchByPrice" asp-controller="Product" method="get">
             <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
-                <input type="checkbox" class="custom-control-input" id="price-all" name="priceRanges" value="0-100000000">
+                <input type="checkbox" class="custom-control-input" id="price-all" name="priceRanges" value="all">
                 <label class="custom-control-label" for="price-all">All Price</label>
                 <span class="badge border font-weight-normal">1000</span>
             </div>
@@ -47,7 +47,7 @@
             </div>
 
             <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
-                <input type="checkbox" class="custom-control-input" id="price-7" name="priceRanges" value="20000000-">
+                <input type="checkbox" class="custom-control-input" id="price-7" name="priceRanges" value="20000000-1000000000000">
                 <label class="custom-control-label" for="price-7">20.000.000 vnđ trở lên</label>
                 <span class="badge border font-weight-normal">N/A</span>
             </div>

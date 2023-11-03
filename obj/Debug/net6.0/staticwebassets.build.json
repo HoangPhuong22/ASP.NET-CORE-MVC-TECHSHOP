@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tdGA3W/ggrPl4LRH4HbSuNFHQq1e2PztbLuq1yQWQug=",
+  "Hash": "nPKS56SnUAM0sehKW/SzVTpLnZC2Odut1D06LYQZBqg=",
   "Source": "TechShop",
   "BasePath": "_content/TechShop",
   "Mode": "Default",
@@ -6611,6 +6611,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\dell-xps-15.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\TechShop\\wwwroot\\img\\f157b959-77e5-4401-ac73-6350e77b58a2_banner-watch-seri4.jpg",
+      "SourceId": "TechShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\TechShop\\wwwroot\\",
+      "BasePath": "_content/TechShop",
+      "RelativePath": "img/f157b959-77e5-4401-ac73-6350e77b58a2_banner-watch-seri4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f157b959-77e5-4401-ac73-6350e77b58a2_banner-watch-seri4.jpg"
     },
     {
       "Identity": "D:\\C#\\TechShop\\wwwroot\\img\\iphone-14-pro.jpg",

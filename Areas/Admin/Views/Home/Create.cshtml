@@ -11,7 +11,8 @@
 <hr />
 <div class="row">
     <div class="col-md-6">
-        <form method="post" asp-action="Create" class="form">
+        <@* form method="post" asp-action="Create" class="form"> *@
+        <form method="post" asp-action="Create" class="form" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="MaSanPham" class="control-label">Mã Sản Phẩm</label>
@@ -28,11 +29,17 @@
                 <input asp-for="HanBaoHanh" class="form-control" />
                 <span asp-validation-for="HanBaoHanh" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            @* <div class="form-group">
                 <label asp-for="AnhSanPham" class="control-label">Ảnh Sản Phẩm</label>
                 <input asp-for="AnhSanPham" class="form-control" />
                 <span asp-validation-for="AnhSanPham" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label class="control-label">Chọn ảnh sản phẩm</label>
+                <input type="file" name="AnhSanPham" class="form-control" />
+
             </div>
+
             <div class="form-group">
                 <label asp-for="GiaNhoNhat" class="control-label">Giá Nhỏ Nhất</label>
                 <input asp-for="GiaNhoNhat" class="form-control" />

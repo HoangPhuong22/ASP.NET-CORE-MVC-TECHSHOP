@@ -50,7 +50,7 @@ namespace TechShop.Controllers
         public IActionResult Search(string searchText, int? page)
         {
             TempData["SearchText"] = searchText;
-            int pageSize = 9;
+            int pageSize = 6;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var products = db.TSanPhams.AsNoTracking().Where(p => p.TenSanPham.Contains(searchText)).OrderBy(X => X.TenSanPham);
             PagedList<TSanPham> lst = new PagedList<TSanPham>(products, pageNumber, pageSize);
@@ -60,7 +60,7 @@ namespace TechShop.Controllers
         public IActionResult SearchByPrice(string[] priceRanges, int? page)
         {
             TempData["PriceRanges"] = priceRanges;
-            int pageSize = 9;
+            int pageSize = 6;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             if (priceRanges != null && priceRanges.Length > 0)
             {
@@ -97,8 +97,8 @@ namespace TechShop.Controllers
 
                 return View(t);
             }
+            var allProducts = db.TSanPhams.AsNoTracking().OrderBy(p => p.TenSanPham);
 
-            var allProducts = db.TSanPhams;
             PagedList<TSanPham> lst = new PagedList<TSanPham>(allProducts, pageNumber, pageSize);
 
             return View(lst);
